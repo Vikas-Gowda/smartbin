@@ -1,0 +1,33 @@
+#gauge-container {
+                    background: transparent url("../content/dataviz/gauge/gauge-container.png") no-repeat 50% 50%;
+                    width: 404px;
+                    height: 404px;
+                    text-align: center;
+                    margin: 0 auto 30px auto;
+                }
+
+                #gauge1 {
+                    width: 250px;
+					
+                    height: 250px;
+                    margin: 0 auto 0;
+                }
+				
+				 #gauge2 {
+                    width: 250px;
+					
+                    height: 250px;
+                    margin: 0 auto 0;                }
+				
+				 #gauge3 {
+					width: 250px;
+					
+                    height: 250px;
+                    margin: 0 auto 0;
+				}
+				
+				 #gauge4 {
+					width: 250px;
+					
+                    height: 250px;
+                    margin: 0 auto 0;               }
